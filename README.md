@@ -14,7 +14,7 @@ Key Findings
 •	The clothing sector is highlighted below not for its economic scale — it is the smallest of the six tracked sectors — but because it produced the project's most analytically significant finding: a case where a standard methodology gave a misleading answer, requiring deeper investigation to resolve.
 •	Clothing exports initially appeared to decline (-20%) in a simple 3-year-average before/after comparison. Investigation of the year-by-year trend revealed this was driven by an anomalously high 2019-21 baseline (likely a pre/early-COVID trade pattern), not a genuine CEPA-related downturn. Within the post-CEPA period itself (2022-23 to 2024-25), both clothing sub-sectors grew consistently — Knitted apparel by +9.71% and Non-Knitted by +2.83% in the most recent year alone — a pattern consistent with external industry reports describing textiles as one of CEPA's stronger-performing sectors.
 Dashboard
-![Dashboard Screenshot](dashboard/Dashboard for uae- cepa.png)
+![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
 
 Methodology
 Data was sourced from India's Ministry of Commerce Export-Import Data Bank (EIDB) across six HS code sectors — petroleum products, gems & jewelry, knitted apparel, non-knitted apparel, machinery, and electrical goods — covering both imports and exports from 2019-20 through 2025-26. Data was cleaned and queried using SQL (SQLite), including conditional aggregation to compute matched before/after CEPA averages and window functions to compute year-over-year growth trends. Findings were cross-validated against independent industry reporting on CEPA's four-year impact and visualized in an interactive Power BI dashboard.
