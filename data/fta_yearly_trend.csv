@@ -1,0 +1,79 @@
+Sector,Trade_Type,Year,Value_USD_Million
+Clothes & Knitted,Export,2019 - 2020,914.15
+Clothes & Knitted,Export,2020 - 2021,911.82
+Clothes & Knitted,Export,2021 - 2022,697.31
+Clothes & Knitted,Export,2022 - 2023,618.57
+Clothes & Knitted,Export,2023 - 2024,638.19
+Clothes & Knitted,Export,2024 - 2025,700.14
+Clothes & Knitted,Import,2019 - 2020,6.04
+Clothes & Knitted,Import,2020 - 2021,1.09
+Clothes & Knitted,Import,2021 - 2022,2.46
+Clothes & Knitted,Import,2022 - 2023,8.12
+Clothes & Knitted,Import,2023 - 2024,2.36
+Clothes & Knitted,Import,2024 - 2025,3.5
+Clothes & Knitted,Import,2025 - 2026,4.47
+Clothes & Non-Knitted,Export,2019 - 2020,695.27
+Clothes & Non-Knitted,Export,2020 - 2021,913.1
+Clothes & Non-Knitted,Export,2021 - 2022,531.28
+Clothes & Non-Knitted,Export,2022 - 2023,531.64
+Clothes & Non-Knitted,Export,2023 - 2024,587.11
+Clothes & Non-Knitted,Export,2024 - 2025,603.73
+Clothes & Non-Knitted,Import,2019 - 2020,4.31
+Clothes & Non-Knitted,Import,2020 - 2021,1.87
+Clothes & Non-Knitted,Import,2021 - 2022,17.03
+Clothes & Non-Knitted,Import,2022 - 2023,25.3
+Clothes & Non-Knitted,Import,2023 - 2024,16.63
+Clothes & Non-Knitted,Import,2024 - 2025,4.07
+Clothes & Non-Knitted,Import,2025 - 2026,7.11
+Electric,Export,2019 - 2020,1559.39
+Electric,Export,2020 - 2021,2757.72
+Electric,Export,2021 - 2022,3650.05
+Electric,Export,2022 - 2023,3538.88
+Electric,Export,2023 - 2024,3840.04
+Electric,Export,2024 - 2025,5397.88
+Electric,Import,2019 - 2020,218.62
+Electric,Import,2020 - 2021,244.91
+Electric,Import,2021 - 2022,676.36
+Electric,Import,2022 - 2023,479.62
+Electric,Import,2023 - 2024,323.13
+Electric,Import,2024 - 2025,274.81
+Electric,Import,2025 - 2026,241.34
+Jewellry,Export,2019 - 2020,2773.7
+Jewellry,Export,2020 - 2021,4953.11
+Jewellry,Export,2021 - 2022,5772.47
+Jewellry,Export,2022 - 2023,8043.08
+Jewellry,Export,2023 - 2024,7758.93
+Jewellry,Export,2024 - 2025,8687.57
+Jewellry,Import,2019 - 2020,7867.04
+Jewellry,Import,2020 - 2021,9348.77
+Jewellry,Import,2021 - 2022,15925.44
+Jewellry,Import,2022 - 2023,14788.04
+Jewellry,Import,2023 - 2024,20109.78
+Jewellry,Import,2024 - 2025,27083.15
+Jewellry,Import,2025 - 2026,24825.69
+Machinery,Export,2019 - 2020,720.78
+Machinery,Export,2020 - 2021,902.78
+Machinery,Export,2021 - 2022,1074.17
+Machinery,Export,2022 - 2023,1363.69
+Machinery,Export,2023 - 2024,1789.94
+Machinery,Export,2024 - 2025,2354.97
+Machinery,Import,2019 - 2020,326.77
+Machinery,Import,2020 - 2021,297.21
+Machinery,Import,2021 - 2022,374.51
+Machinery,Import,2022 - 2023,306.91
+Machinery,Import,2023 - 2024,481.51
+Machinery,Import,2024 - 2025,381.26
+Machinery,Import,2025 - 2026,432.72
+Petroleum Products,Export,2019 - 2020,2810.47
+Petroleum Products,Export,2020 - 2021,6196.05
+Petroleum Products,Export,2021 - 2022,8681.78
+Petroleum Products,Export,2022 - 2023,8236.65
+Petroleum Products,Export,2023 - 2024,7595.52
+Petroleum Products,Export,2024 - 2025,5850.69
+Petroleum Products,Import,2019 - 2020,16196.71
+Petroleum Products,Import,2020 - 2021,11822.66
+Petroleum Products,Import,2021 - 2022,20320.23
+Petroleum Products,Import,2022 - 2023,27704.96
+Petroleum Products,Import,2023 - 2024,17628.89
+Petroleum Products,Import,2024 - 2025,24739.66
+Petroleum Products,Import,2025 - 2026,24272.88
